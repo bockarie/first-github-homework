@@ -10,7 +10,7 @@
 
 |  | student emoji | student comments | coach emoji | coach comments |
 | --- | --- | --- | --- | --- |
-| hakan | :white_check_mark: | just finished | | |
+| hakan | :white_check_mark: | just finished |  :white_check_mark:|it's okay |
 
 ___
 ___
